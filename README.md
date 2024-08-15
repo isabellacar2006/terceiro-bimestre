@@ -1,2 +1,0 @@
-# terceiro-bimestre
-ALURAFLIX
